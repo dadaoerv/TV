@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-29 18:44:19,url
+2025-03-30 06:42:38,url
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -660,7 +660,6 @@ CETV4,http://123.56.129.203:3750/rtp/225.1.8.195:4120$北京电信组播源
 天津卫视,http://110.53.52.63:8888/newlive/live/hls/42/live.m3u8$订阅源
 天津卫视,http://tv.2cf.x10.mx/2hl/3221226395/index.m3u8?ace$订阅源
 天津卫视,http://tv.2cf.x10.mx/2hl/3221226459/index.m3u8?ace$订阅源
-西藏卫视,http://125.82.168.238:8888/rtp/235.254.198.46:1460$组播源
 西藏卫视,http://111.61.236.247:9081/hls/52/index.m3u8$订阅源
 西藏卫视,http://61.138.128.226:19901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 西藏卫视,http://61.138.128.226:19901/tsfile/live/0111_1.m3u8$订阅源
@@ -694,7 +693,6 @@ CETV4,http://123.56.129.203:3750/rtp/225.1.8.195:4120$北京电信组播源
 
 🏠广东频道,#genre#
 广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146$组播源
-广东珠江,http://119.32.12.17:2901/udp/224.1.100.23:11111$订阅源|1920x1080
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8$订阅源
 广东珠江,https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8$订阅源
 广东珠江,https://stream1.freetv.fun/bda519d40a214c2bfff9c5a5949d89c7eb82aba6d67a36488b379ed75adb598d.ctv$订阅源
@@ -704,6 +702,7 @@ CETV4,http://123.56.129.203:3750/rtp/225.1.8.195:4120$北京电信组播源
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-26.m3u8$订阅源
 广东珠江,https://stream1.freetv.fun/cd093c8b92ae68affb34b3b0f147bbdac575b4eee76ac0410e85d2777d808b6e.m3u8$订阅源
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-11.m3u8$订阅源
+广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-13.ctv$订阅源
 广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
@@ -1175,9 +1174,9 @@ CCTV-5+,http://112.27.145.212:9901$订阅源
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-12.m3u8$订阅源
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-7.m3u8$订阅源
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-2.m3u8$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-6.m3u8$订阅源
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-5.m3u8$订阅源
@@ -1249,7 +1248,6 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia$订阅源
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8$订阅源|IPv6
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$订阅源|IPv6
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$订阅源
 浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140$组播源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-5.m3u8$订阅源
@@ -1276,6 +1274,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn$订阅源
 中华小当家,http://live.iill.top/huya.php?id=11342413$订阅源
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
 蜡笔小新,http://1.94.31.214:35455/huya/11352970$订阅源
 
@@ -1303,7 +1302,8 @@ CCTV-15,http://110.7.131.231:9901$订阅源
 🏛经典剧场,#genre#
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
-新白娘子传奇,https://lunbo.freetv.top/yy/1354930969$订阅源
+三国演义,http://live.metshop.top/huya/11602081$订阅源
+上海滩,https://live.metshop.top/yy/1382745184$订阅源
 
 🈳无结果频道,#genre#
 CETV5,url
@@ -1395,8 +1395,8 @@ CHC高清电影,url
 中录动漫,url
 睛彩少儿,url
 炫动卡通,url
+24H国漫热播,url
 海绵宝宝,url
-斗破苍穹玄幻剧,url
 经典动漫,url
 漫画解说,url
 游戏竞技,url
@@ -1410,10 +1410,9 @@ CHC高清电影,url
 鹿鼎记,url
 仙剑奇侠传,url
 西游记,url
-三国演义,url
 水浒传,url
+新白娘子传奇,url
 济公游记,url
 封神榜,url
 闯关东,url
-上海滩,url
 射雕英雄传,url
